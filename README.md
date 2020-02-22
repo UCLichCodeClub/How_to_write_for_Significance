@@ -1,6 +1,6 @@
 # How_to_write_for_Significance
 
-The file Writing_for_Significance_Feb2020.pdf in this project, prepared by Mario Cortina Borja and Brian Tarran in February 2020, might be helpful if you are thinking of entering our annual writing competition for early-career statisticians organised by the Young Statisticians Section (YSS) of the Royal Statistical Society (RSS).  
+The file Writing_for_Significance_Feb2020.pdf in this repository, prepared by Mario Cortina Borja and Brian Tarran in February 2020, might be helpful if you are thinking of entering our annual writing competition for early-career statisticians organised by the Young Statisticians Section (YSS) of the Royal Statistical Society (RSS).  
 
 ## Closing date  29 May 2020
 
